@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071991269081",
+    "project_id": "smart-retail-ee287",
+    "storage_bucket": "smart-retail-ee287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071991269081:android:e49a91d6f5158b85c080c8",
+        "android_client_info": {
+          "package_name": "com.smart_retail.smart_retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071991269081-metkrhkd1qf82dp0bcd3k5notboc073s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Lg-c5NsjxjzdiagfefDgcdZXa3bOGyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071991269081-metkrhkd1qf82dp0bcd3k5notboc073s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
